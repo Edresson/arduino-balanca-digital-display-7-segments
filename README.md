@@ -2,7 +2,7 @@
 
 uma balança digital utilizando arduino e modulo hx711 bem como uma celula de carga 
 
-artigo sobre o projeto pode ser encontrado neste link: 
+artigo sobre o projeto pode ser encontrado neste link: http://meditec.md.utfpr.edu.br/evento-atual/anais-meditec-viii-2017/file/92-anais-meditec-viii
 
 com ele está explicado a montagem do circuito! 
 
